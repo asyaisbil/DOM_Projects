@@ -1,5 +1,4 @@
 const siteContent = {
-    // BU NESNEYİ DEĞİŞTİRMEYİN
     title: 'Balboa',
     logo: '/Users/asyaisbil/Documents/JAVASCRIPT/Workintech/Sprint_5/Proje_1/Gorev_1/balboa.jpg',
     links: [
